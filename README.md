@@ -4,6 +4,8 @@ FinGuard is an AI-native redesign of marketing and product claim review in regul
 
 The system performs structured first-pass regulatory analysis using a curated rulebook. It extracts claims, identifies triggered compliance rules with evidence, assigns deterministic risk levels, models ambiguity-derived confidence, and enforces policy-based human escalation.
 
+The workflow embeds deterministic escalation logic and ambiguity-derived confidence modeling to enforce governance boundaries.
+
 AI is responsible for risk classification and escalation logic. The final decision to approve and assume regulatory exposure remains human.
 
 ## Features
