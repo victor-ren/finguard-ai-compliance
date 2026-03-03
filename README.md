@@ -20,13 +20,15 @@ AI is responsible for risk classification and escalation logic. The final decisi
 1. Clone the repository
 2. Create a virtual environment
 3. Install dependencies:
+```
 pip install -r requirements.txt
+```
 4. Add your OpenAI API key to a `.env` file:
-
-
+```
 OPENAI_API_KEY=your_key_here
+```
 5. Run the application:
-
-
+```
 streamlit run app.py
+```
 Note: API keys are not included. Use environment variables to configure your key securely.
